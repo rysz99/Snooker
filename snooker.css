@@ -241,7 +241,7 @@ ul > li:hover
     width: 520px;
     float: left;
     margin-left: 20px;
-    background-image: url(Graphics/youtube.png);
+    background-image: url(youtube.png);
     background-size: 520px 640px;
     background-repeat: no-repeat;
     line-height: 170%;
