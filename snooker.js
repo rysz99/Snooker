@@ -5,7 +5,7 @@ function zmienslajd()
 
 numer++; if(numer>10) numer=1;
 
-var plik = "<img src=\"./"+numer+".jpeg\" />";
+var plik = "<img src=\numer+".jpeg\" />";
 
 document.getElementById("champions").innerHTML = plik;
 
